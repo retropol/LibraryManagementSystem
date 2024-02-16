@@ -23,8 +23,8 @@ A small-scale winodws forms application, logged in via the admin panel, where yo
   
 ## Screenshots
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/retropol/LibraryManagementSystem/master/SS/login.PNG?token=GHSAT0AAAAAACOBL4ZSHALCFBP5X7XVOYXQZOPEWDQ)
+![Uygulama Ekran Görüntüsü](https://snipboard.io/r19jTz.jpg)
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/retropol/LibraryManagementSystem/master/SS/mainGUI.PNG?token=GHSAT0AAAAAACOBL4ZTAKT5PKX5JEDS2FRMZOPEXMA)
+![Uygulama Ekran Görüntüsü](https://snipboard.io/9WQsm1.jpg)
 
   
